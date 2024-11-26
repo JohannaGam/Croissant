@@ -16,6 +16,7 @@ li {
 }
 .internal-link {
   color: green;
+  text-decoration: none;
 }
 a:visited {
   color: green;
